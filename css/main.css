@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../../pexels-felix-mittermeier-2832084.jpg) no-repeat center bottom;
+	background: #151515 url(../images/pexels-felix-mittermeier-2832084.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2097,7 +2097,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../../pexels-pixabay-262662.jpg) no-repeat center; !important;
+	background: #313131 url(../images/pexels-pixabay-262662.jpg) no-repeat center; !important;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
