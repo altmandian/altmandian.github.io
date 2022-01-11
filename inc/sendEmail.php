@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'altman_a@protonmail.com';
+$siteOwnersEmail = 'https://formspree.io/altman_a@protonmail.com';
 
 
 if($_POST) {
@@ -51,7 +51,7 @@ if($_POST) {
 
 		if ($mail) { echo "OK"; }
       else { echo "Something went wrong. Please try again."; }
-		
+
 	} # end if - no validation error
 
 	else {
