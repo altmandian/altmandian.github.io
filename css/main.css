@@ -2370,7 +2370,9 @@ header .logo a {
 #contact button.submitform:hover, #contact button.submitform:focus {
 	background: #cc005f;
 }
-#message-warning, #message-success {
+
+
+, #message-success {
 	display: none;
 	background: #0d0d0d;
 	border-radius: 3px;
@@ -2379,7 +2381,7 @@ header .logo a {
 	width: 100%;
 }
 #message-warning {
-	color: #fa0003;
+	color: white;
 }
 #message-success {
 	color: #FF0077;
