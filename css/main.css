@@ -1306,6 +1306,7 @@ header .logo a {
 	position: relative;
 	text-align: center;
 }
+
 .intro-overlay {
 	position: absolute;
 	top: 0;
@@ -2212,6 +2213,8 @@ header .logo a {
 	font-family: "poppins-medium", sans-serif;
 	color: white;
 }
+
+
 #stats .stat-title {
 	color: rgba(255, 255, 255, 0.5);
 }
@@ -2379,7 +2382,7 @@ header .logo a {
 	width: 100%;
 }
 #message-warning {
-	color: #fa0003;
+	color: white;
 }
 #message-success {
 	color: #FF0077;
