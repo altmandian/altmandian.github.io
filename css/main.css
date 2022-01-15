@@ -1096,7 +1096,7 @@ header .row {
 header .top-bar {
 	display: block;
 	background: #000000;
-	min-width: 220px;
+	min-width: 95%;
 	min-height: 66px;
 	position: absolute;
 	left: 90px;
@@ -1121,6 +1121,26 @@ header .logo a {
 	height: 15px;
 	/*background: url("../images/logo.png") no-repeat center; Hier noch Logo erstelen und einfügen */
 	background-size: 92px 15px;
+}
+
+.de-lang{
+	 float: right;
+	 padding: 1em;
+	 margin-right: 20px;
+	 position: relative;
+
+ }
+
+.en-lang{
+	float: right;
+	padding: 1em;
+	margin-right: 20px;
+	position: relative;
+
+}
+
+.changeLang{
+	color: #7CF595;
 }
 
 /**
@@ -1678,7 +1698,7 @@ header .logo a {
 
 #resume .timeline-header {
 	float: left;
-	width: 35%;
+	width: 40%;
 	padding-right: 90px;
 	text-align: right;
 }
