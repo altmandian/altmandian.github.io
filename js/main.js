@@ -81,6 +81,7 @@
 
 				   $({ Counter: 0 }).animate({ Counter: $this.text() }, {
 				   	duration: 2500,
+					time:2000,
 				   	easing: 'swing',
 				   	step: function (curValue) {
 				      	$this.text(Math.abs(curValue));
